@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'Git hub documentation'
+copyright = '2021, hindu'
+author = 'APSSDC'
 
 # The full version, including alpha/beta/rc tags
 release = ''
